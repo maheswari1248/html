@@ -1,0 +1,19 @@
+<html>
+<head><style>
+P{
+	color:blue;
+}
+#p{
+	color:pink;
+}
+.p{
+	color:maroon;
+}
+</style>
+</head>
+<body>
+<p>HELLO ALL ELEMENT</p>
+<p id="mahe">HELLO ALL ID</p>
+<p class="ammu">HELLO ALL CLASS</p>
+</body>
+</html>
